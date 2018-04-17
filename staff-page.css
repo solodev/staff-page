@@ -1,0 +1,47 @@
+.people-content .people-image {
+  padding-right: 40px;
+}
+.people-content .people-image img {
+  display: inline-block;
+  border: 4px solid #ebebeb;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  max-width: 300px;
+  width: 100%;
+}			
+.people-content .people-header {
+  border-bottom: 1px solid #ccc;
+  padding: 0 0 15px;
+}
+.people-content .people-title {
+  font-size: 4rem;
+  margin: 0 0;
+}
+.people-content .people-position {
+  padding: 0 0;
+  margin: 0 0;
+  font-weight: 600;
+}
+.people-content .people-contact {
+  padding-top: 5px;
+}
+.people-content .people-contact .contact-detail {
+  padding: 5px 0px 0;
+  margin-bottom: 0px;
+}
+.people-content .people-contact .contact-detail .fa {
+  margin-right: 5px;
+  min-width: 20px;
+}
+.people-content .people-details {
+  border-top: 1px solid #ccc;
+}
+.paddingTop20 {
+  padding-top: 20px;
+}
+.paddingTop40 {
+   padding-top: 40px; 
+ }
+}
